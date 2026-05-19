@@ -1,6 +1,6 @@
 # SimonCompassHelper
 
-## Interface: 20505, 50503, 120005
+## Interface: 20505
 ## Title: SimonCompassHelper
 ## Version: 1.0.0
 ## Author: andreassteffensen
