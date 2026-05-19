@@ -1,0 +1,8 @@
+package-as: SimonCompassHelper
+ignore:
+  - .git
+  - Scripts
+  - tests
+  - .env
+license-output: LICENSE
+manual-changelog: CHANGELOG.txt
