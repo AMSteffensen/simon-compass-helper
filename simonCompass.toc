@@ -1,0 +1,7 @@
+## Interface: 20505, 50503, 120005
+## Title: Simon Compass Helper
+## Notes: Memory helper for Simon Says compass puzzle
+## Author: You
+## Version: 1.0
+
+SimonCompass.lua    
